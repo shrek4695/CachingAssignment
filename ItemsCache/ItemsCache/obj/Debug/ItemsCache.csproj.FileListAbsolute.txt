@@ -1,0 +1,7 @@
+c:\users\skapoor\source\repos\ItemsCache\ItemsCache\obj\Debug\ItemsCache.csprojResolveAssemblyReference.cache
+c:\users\skapoor\source\repos\ItemsCache\ItemsCache\obj\Debug\ItemsCache.csproj.CoreCompileInputs.cache
+c:\users\skapoor\source\repos\ItemsCache\ItemsCache\bin\Debug\ItemsCache.exe.config
+c:\users\skapoor\source\repos\ItemsCache\ItemsCache\bin\Debug\ItemsCache.exe
+c:\users\skapoor\source\repos\ItemsCache\ItemsCache\bin\Debug\ItemsCache.pdb
+c:\users\skapoor\source\repos\ItemsCache\ItemsCache\obj\Debug\ItemsCache.exe
+c:\users\skapoor\source\repos\ItemsCache\ItemsCache\obj\Debug\ItemsCache.pdb
